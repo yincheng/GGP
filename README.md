@@ -1,12 +1,13 @@
 # Graph Gaussian Process (GGP)
-The code and data in this repository accompanies the paper `[Bayesian Semi-supervised Learning with Graph Gaussian Processes](https://arxiv.org/abs/1809.04379)'
-
+The code and data in this repository accompany the paper `[Bayesian Semi-supervised Learning with Graph Gaussian Processes](https://arxiv.org/abs/1809.04379)'
+```
 @inproceedings{ng2018gaussian,
   title={Bayesian semi-supervised learning with graph Gaussian processes},
   author={Ng, Yin Cheng and Colombo, Nicolo and Silva, Ricardo},
   booktitle={Advances in Neural Information Processing Systems},
   year={2018}
 }
+```
 
 The code depends on a branch of GPflow located [here](https://github.com/markvdw/GPflow-inter-domain).
 
